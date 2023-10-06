@@ -1,0 +1,31 @@
+Api call in react   -js
+
+
+ajax
+-----
+async awit
+fetch  -no inbuilt data conversion method
+axios  -Have inbuilt data conversion method
+         This library is very useful to perform CRUD operations. This popular library is used to communicate with the backend
+         npm i axios
+
+
+         methods in axios
+         ----------------
+
+         post
+         get
+         put
+         patch
+         delete
+
+         access url router params
+         -------------------------
+
+         useParams - hook
+
+
+         destructuring
+         ----------
+
+         
